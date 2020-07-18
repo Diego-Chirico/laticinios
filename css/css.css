@@ -34,10 +34,10 @@ h1 {
     /* cabeçalho 01 */
 
         #cabecalho01 {
+            background-color: #80c1ebff;
             position: relative;
-            margin: auto;
-            margin-top: 10px;
-            margin-bottom: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
             width: 100%;
             height: auto;
             display: flex;
@@ -70,7 +70,7 @@ h1 {
             position: relative;
             width: 100%;
             height: auto;
-            margin-top: 20px;
+
             display: flex;
             flex-flow: row nowrap;
             
